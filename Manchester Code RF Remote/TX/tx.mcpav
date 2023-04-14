@@ -1,0 +1,53 @@
+[DEVICE]
+Name=ATTINY13A
+Clock=9599999
+[MEMORY_MODEL]
+Value=0
+[BUILD_TYPE]
+Value=0
+[ACTIVE_TAB]
+Value=tx.c
+[USE_EEPROM]
+Value=0
+[USE_HEAP]
+Value=0
+[HEAP_SIZE]
+Value=0
+[EEPROM_DEFINITION]
+Value=
+[BOOT_TYPE]
+Value=0
+[FILES]
+Count=1
+File0=tx.c
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+Count=1
+File0=tx.c
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Count=4
+Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Defs\
+Path1=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\
+Path2=C:\Users\Shawon\Desktop\Manchester Code RF Remote\TX\
+Path3=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\LTE64KW\
+[HEADER_PATH]
+Count=0
+[HEADERS]
+Count=0
+[PLDS]
+Count=0
+[Useses]
+Count=0
+[EXPANDED_NODES]
+Node0=Sources
+Count=1
